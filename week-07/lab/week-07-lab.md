@@ -374,4 +374,3 @@ each concept came from:
 | `inputError` highlight class | Validation | Part 2 |
 | Disabling submit with `Object.keys(errors).length` | Validation | Part 2 |
 
-A finished reference is available in the **"registration-form-complete"** folder.
